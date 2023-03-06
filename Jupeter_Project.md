@@ -79,7 +79,7 @@
 1. Materials:
   * Computer
   * Software (Matlab, IDL, Python, etc.)
-  * Telescopes
+  * A 120mm (or 4.72') Telescope
   * Magnetometer
   * Educational resources (books, scientific articles, online resources)
 2. Tools:
@@ -90,3 +90,70 @@
   * Analytical tools (e.g. spectrometers, gas chromatographs) for analysis of atmospheric composition and dynamics
   * Statistical software for data analysis
 
+## Procedures
+```
+  List all procedures and experimental design to be used for data collection.
+  Be as specific as possible so if others want to replicate your experiment,
+  they know exactly what to do. If you use a kit or any type of ready-to-use or
+  assemble system, the procedures MUST be detailed here. Include safety and
+  disposal
+```
+1. Choose the right time and location: To observe Jupiter, choose a clear night
+   when the planet is visible in the sky. Jupiter is one of the brightest
+   objects in the night sky and can be seen even from light-polluted areas.
+   Choose a location with a clear view of the horizon and without obstructions,
+   such as trees or buildings.
+2. Set up telescope: Set up our 120mm telescope according to the manufacturer's
+   instructions. Make sure the telescope is properly aligned and focused.
+3. Observe atmospheric features: Observe Jupiter's atmosphere for changes in
+   color and texture over time, which can indicate the presence of storms or
+   other atmospheric features.
+3. Record observations: Record the date, time, and location of our
+   observations, as well as the atmospheric features you observed.
+4. Compare with other data: Compare our observations with data from other
+   telescopes and spacecraft missions, such as the Juno spacecraft, which has
+   been studying Jupiter's magnetic field and atmosphere since 2016. Look for
+   correlations between changes in atmospheric features and changes in the
+   planet's magnetic field.
+5. Analyze data: Use software to analyze our observations and identify any
+   patterns or trends in the atmospheric features. We may also create
+   visualizations, such as graphs or charts, to display the data and identify
+   any correlations with changes in the magnetic field.
+
+## Data Analysis
+```
+Describe the procedures you WILL use to analyze the data/results that answer research questions or
+```
+1. Data organization: Create a spreadsheet or database that includes the date,
+   time, location, and atmospheric features observed, as well as any other
+   relevant data. This can include the latitude and longitude of the observation
+   site, the telescope used, and any relevant weather conditions.
+2. Data visualization: Create visualizations of the data to help identify
+   patterns and trends. This can include creating graphs or charts of the
+   atmospheric features observed over time, or mapping the locations of observed
+   features on a map of Jupiter's surface.
+3. Statistical analysis: Use statistical analysis tools to identify
+   correlations between changes in atmospheric features and changes in the
+   planet's magnetic field. This can include calculating correlation
+   coefficients between changes in atmospheric features and changes in magnetic
+   field measurements obtained from other sources, such as spacecraft missions.
+4. Comparison with other data: Compare the results with data from other
+   telescopes and spacecraft missions, such as data from the Juno spacecraft.
+   Look for correlations and patterns in the data that can provide insights into
+   the dynamics of Jupiter's magnetic field and atmosphere.
+5. Conclusion: Draw conclusions based on the data and analysis, and discuss
+   the implications of the results for our understanding of Jupiter's magnetic
+   field and atmospheric dynamics. This can include discussing any correlations
+   or patterns identified in the data, as well as any limitations or potential
+   sources of error.
+6. Discussion: Discuss the limitations of the study, the potential sources of
+   error, and possible future directions for research. This can include
+   discussing ways to improve data collection or analysis techniques, or
+   exploring new methods for studying Jupiter's magnetic field and atmosphere.
+
+## Bibliography
+* [Entry: _Magetic Field_ from NASA website](https://www2.jpl.nasa.gov/galileo/jupiter/magnetic_field.html#:~:text=It%20extends%20beyond%20the%20orbit,own%20magnetic%20field%20every%20day.)
+* [Entry: _Magnetosphere of Jupiter_ from Wikipedia](https://en.wikipedia.org/wiki/Magnetosphere_of_Jupiter)
+* [Entry: _Jupiter_ from NASA](https://www.nasa.gov/jupiter)
+* Stanley, S. (2020), _Two moons and a magnetosphere_ , Eos, 101, https://doi.org/10.1029/2020EO142836. Published on 21 April 2020.
+* Carr T D, Gulkis S. _The magnetosphere of Jupiter_. Annual Review of Astronomy and Astrophysics, 1969, 7(1): 577-618.
