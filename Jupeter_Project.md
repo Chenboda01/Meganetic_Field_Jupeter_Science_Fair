@@ -156,4 +156,5 @@ Describe the procedures you WILL use to analyze the data/results that answer res
 * [Entry: _Magnetosphere of Jupiter_ from Wikipedia](https://en.wikipedia.org/wiki/Magnetosphere_of_Jupiter)
 * [Entry: _Jupiter_ from NASA](https://www.nasa.gov/jupiter)
 * Stanley, S. (2020), _Two moons and a magnetosphere_ , Eos, 101, https://doi.org/10.1029/2020EO142836. Published on 21 April 2020.
-* Carr T D, Gulkis S. _The magnetosphere of Jupiter_. Annual Review of Astronomy and Astrophysics, 1969, 7(1): 577-618.
+* Carr T D, Gulkis S. "The magnetosphere of Jupiter". Annual Review of Astronomy and Astrophysics, 1969, 7(1): 577-618. ([pdf](./refs/Carr_Gulkis:69:Magnetospherer.pdf))
+* Brice, Neil M., and George A. Ioannidis. "The magnetospheres of Jupiter and Earth." Icarus 13.2 (1970): 173-183. ([pdf](./refs/brice_ioannidis:70:magnetospheres.pdf))
