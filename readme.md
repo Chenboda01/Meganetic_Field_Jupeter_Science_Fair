@@ -9,4 +9,6 @@
   * [Magetic Field](https://www2.jpl.nasa.gov/galileo/jupiter/magnetic_field.html#:~:text=It%20extends%20beyond%20the%20orbit,own%20magnetic%20field%20every%20day.)
   * [Magnetosphere of Jupiter](https://en.wikipedia.org/wiki/Magnetosphere_of_Jupiter)
   * [Jupiter from NASA](https://www.nasa.gov/jupiter)
+3. Others
+  * [Two Moons and a Magnetosphere](./Two_moons_and_Magnetosphere)
 
